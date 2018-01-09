@@ -37,7 +37,7 @@ import cf.lisuke.passwdbox.Model.Item;
 /**
  * 登录之后进入的Activity，在该Activity处理对网站帐号业务的实现
  * 增 删 查 改
- * @author lisuke
+ * @author liweikang
  */
 public class MainActivity extends AppCompatActivity {
     //当前登录的帐号
